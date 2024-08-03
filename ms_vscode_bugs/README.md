@@ -1,3 +1,6 @@
+**Download Link**
+https://drive.google.com/file/d/1yzKHQgejkt9pHRRvjp3nhDphKKpVRdEm/view?usp=sharing
+
 **HOW TO USE**
 
 Upload the json zip file to your google drive and **change** the "%cd /gdrive/MyDrive/Colab\ Notebooks" in the below notebook.
