@@ -11,9 +11,13 @@ https://colab.research.google.com/drive/1Uc9hTvBAjdF7oalpk2zoq7QJO6q7mzq6?usp=sh
 https://medium.com/@avinash.patil.0909/duplicate-bug-reports-detection-using-ml-925ef6409394
 
 **About**
+
 The data set has 32829 records. 
+
 Below is a json sample of all the information that is being captured.
-Date Range Oct2015 - Jul2024
+
+**Date Range** Oct2015 - Jul2024
+
 
 {
         "url": "https://api.github.com/repos/microsoft/vscode/issues/223706",
