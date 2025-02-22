@@ -1,3 +1,5 @@
+<a href="https://doi.org/10.48550/arXiv.2502.14338"><img src="https://zenodo.org/badge/DOI/10.48550/arXiv.2502.14338.svg" alt="DOI"></a>
+
 ## Usage Instructions
 Follow these steps to generate and evaluate results:
 
