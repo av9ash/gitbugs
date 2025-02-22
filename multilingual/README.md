@@ -1,5 +1,7 @@
 <a href="https://doi.org/10.48550/arXiv.2502.14338"><img src="https://zenodo.org/badge/DOI/10.48550/arXiv.2502.14338.svg" alt="DOI"></a>
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/english-please-evaluating-machine-translation/machine-translation-on-multi-lingual-bug)](https://paperswithcode.com/sota/machine-translation-on-multi-lingual-bug?p=english-please-evaluating-machine-translation)
+
 ## Usage Instructions
 Follow these steps to generate and evaluate results:
 
