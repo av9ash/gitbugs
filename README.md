@@ -1,11 +1,9 @@
 # GitBugs
 [![DOI](https://zenodo.org/badge/678604821.svg)](https://zenodo.org/badge/latestdoi/678604821)
 
-Summary: Bugs from some popular projects on github.
-
-Description: A collection of bug reports that are publicly available for research purposes. Bug reports are a main data source for facilitating NLP-based research in software engineering.
-
-**Please site if any of the code or data is used.**
+## License and Citation
+This project is released under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.  
+Any use or reuse of this work must cite the following:
 
 ```
 @INPROCEEDINGS{10512000,
@@ -20,6 +18,12 @@ Description: A collection of bug reports that are publicly available for researc
   doi={10.1109/SPIN60856.2024.10512000}}
 ```
 
-Bug report Datasets:
-1) multilingual:  Bug reports from microsoft/vscode repo reported in lanugages other than english (Multilingual Bug Reports).
-2) ms_vscode_bugs: Bug reports from microsoft/vscode contains all original reports, all duplicate reports and a duplicate to original mapping dictionary.
+For more details on the license, visit [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+## Bug Report Datasets:
+Summary: Bugs from some popular projects on github.
+
+Description: A collection of bug reports that are publicly available for research purposes. Bug reports are a main data source for facilitating NLP-based research in software engineering.
+
+1) **multilingual**:  Bug reports from microsoft/vscode repo reported in lanugages other than english (Multilingual Bug Reports).
+2) **ms_vscode_bugs**: Bug reports from microsoft/vscode contains all original reports, all duplicate reports and a duplicate to original mapping dictionary.
