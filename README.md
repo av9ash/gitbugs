@@ -20,22 +20,38 @@ Any use or reuse of this work must cite the following:
 
 For more details on the license, visit [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
-HOW TO USE
 
-Upload the json zip file to your google drive and change the "%cd /gdrive/MyDrive/Colab\ Notebooks" in the below notebook.
+## Bug Report Datasets: Bugs from some popular open source projects.
 
-How to Use: Following Notebook will load the original bugs from json, make them into a vectors using TFIDF and search top n neighbors using SKlearn Nearest Neighbors https://colab.research.google.com/drive/1Uc9hTvBAjdF7oalpk2zoq7QJO6q7mzq6?usp=sharing
+## Column Description
+**Summary:** Short description of the issue.
 
-https://medium.com/@avinash.patil.0909/duplicate-bug-reports-detection-using-ml-925ef6409394
+**Issue ID:** Unique identifier.
 
-About
+**Status:** The current state of the issue (e.g., Open, Resolved).
 
-The data set has 32829 records. Date Range Oct2015 - Jul2024
+**Priority:** The assigned importance level (e.g., Blocker, Critical).
 
-## Bug Report Datasets:
-Summary: Bugs from some popular projects on github.
+**Resolution:** The outcome of the issue (e.g., Fixed, Duplicate). Some values are missing.
 
-Description: A collection of bug reports that are publicly available for research purposes. Bug reports are a main data source for facilitating NLP-based research in software engineering.
+**Created:** The timestamp when the issue was created.
 
-1) **multilingual**:  Bug reports from microsoft/vscode repo reported in lanugages other than english (Multilingual Bug Reports).
-2) **ms_vscode_bugs**: Bug reports from microsoft/vscode contains all original reports, all duplicate reports and a duplicate to original mapping dictionary.
+**Resolved:** The timestamp when the issue was resolved. Many are missing.
+
+**Affects Version/s:** The Hadoop version(s) impacted by the bug.
+
+**Description:** A detailed description of the bug. Some values are missing.
+
+
+| Project          |              Total Bug Reports |              Duplicates |
+| :--------------- | -----------------------: | -----------------------: |
+| Cassandra     | 4,612 | 300 | 
+| Firefox          |  28824 |    6255|
+| Hadoop      |   2503 |   128 |   
+| Hbase |   5403 |   108 |
+| Mozilla Core              |   - |    17899 |
+| VS Code            |    - |    - |
+| Seamonkey           |       1076 |        120 |
+| Spark        |        - |        497 |
+| Thunderbird             |     15192 |      4200 |
+
