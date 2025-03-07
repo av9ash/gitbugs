@@ -49,10 +49,10 @@ For more details on the license, visit [CC BY 4.0](https://creativecommons.org/l
 | Firefox          |  28824 |    6255|
 | Hadoop      |   2503 |   128 |   
 | Hbase |   5403 |   108 |
-| Mozilla Core              |   - |    17899 |
-| VS Code            |    - |    - |
+| Mozilla Core              |   85673 |    17899 |
+| VS Code            |    32829 |    9272 |
 | Seamonkey           |       1076 |        120 |
-| Spark        |        - |        497 |
+| Spark        |        20275 |        497 |
 | Thunderbird             |     15192 |      4200 |
 
 
