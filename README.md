@@ -1,5 +1,5 @@
 # GitBugs
-[![DOI](https://zenodo.org/badge/678604821.svg)](https://zenodo.org/badge/latestdoi/678604821)
+[![DOI](https://zenodo.org/badge/DOI/10.48550/arXiv.2504.09651.svg)](https://doi.org/10.48550/arXiv.2504.09651)
 
 ## License and Citation
 This project is released under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.  
