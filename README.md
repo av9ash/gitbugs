@@ -1,6 +1,9 @@
 # GitBugs
 [![DOI](https://zenodo.org/badge/DOI/10.48550/arXiv.2504.09651.svg)](https://doi.org/10.48550/arXiv.2504.09651)
 
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/gitbugs-bug-reports-for-duplicate-detection/on-gitbugs)](https://paperswithcode.com/sota/on-gitbugs?p=gitbugs-bug-reports-for-duplicate-detection)
+
 ## License and Citation
 This project is released under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.  
 Any use or reuse of this work please cite the following:
